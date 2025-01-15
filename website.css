@@ -138,7 +138,7 @@ header {
     font-size:80px;
     word-wrap:break-word;
     width:600px;
-
+    margin-top:10%;
 }
 nav::before {
     content: "Heart of Kentucky Kids";
@@ -557,6 +557,7 @@ address{
     border:2.5px solid rgb(163, 194, 255);
     border-radius:20px;
     padding:3%;
+    font-size:30px;
 }
 #dolly div.imgdiv{
     display:flex;
@@ -676,7 +677,7 @@ address{
     font-size:30px;
 }
 #concerns .title{
-    margin-top:13%;
+    margin-top:25%;
 }
 #concerns aside{
     display:none;
@@ -789,7 +790,7 @@ address{
 
 }
 #preschool .title{
-    margin-top:13%;
+    margin-top:25%;
 }
 #preschool aside{
     display:none;
