@@ -18,6 +18,9 @@ body, html {
     font-family:'rock salt';
     font-size:48px;
 }
+#home p{
+    font-size:25px;
+}
 aside {
     display:flex;
     flex-direction:row;
@@ -127,6 +130,7 @@ li {
  }
  nav ul li a{
     padding:10px;
+    font-size:25px;
  }
 #inspiration {
     display:flex;
@@ -640,9 +644,12 @@ address{
     padding:0px;
 }
 #concerns ul li{
-    font-size:18.66px;
+    font-size:25px;
     font-family:'pt sans';
     color:#1c1c1c
+}
+#concerns p{
+    font-size:30px;
 }
 #concerns main ul{
     display:flex;
@@ -752,6 +759,9 @@ address{
 #preschool img{
     width:250px;
     margin-top:5%;
+}
+#preschool p{
+    font-size:30px;
 }
 #HeadstartSection div[class="imggroup short"]{
     display:flex;
