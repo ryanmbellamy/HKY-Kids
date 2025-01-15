@@ -327,6 +327,7 @@ address{
     flex-direction:column;
     gap: 5%;
     width:50%;
+    margin-left:5%;
 }
 #dolly img{
     width:350px;
@@ -396,6 +397,7 @@ address{
     margin:3%;
     text-align:center;
     background-color:#007299;
+    font-size:30px;
 }
 #programs .links ul{
     display:flex;
@@ -404,8 +406,13 @@ address{
     justify-content:center;
     margin-right:10%
 }
+#programs p{
+    font-size:30px;
+}
 #AtHome .links ul li a{
     color:#007299;
+    font-size:30px;
+    text-decoration:underline;
 }
 #AtHome .links ul li a:visited{
     color:#007299;
@@ -424,6 +431,11 @@ address{
 #AtHome h2{
     text-align:left;
     width:100%;
+    font-size:30px;
+    
+}
+#AtHome p{
+    font-size:30px;
 }
 
 #AtHome div[class="imggroup short"]{
