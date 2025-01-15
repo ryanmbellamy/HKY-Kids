@@ -70,7 +70,7 @@ h2 {
     height:44px;
     margin-left:50px;
 }
-
+/* HEADERS */
 header {
     display:flex;
     align-content:center;
@@ -80,6 +80,54 @@ header {
     background-size: cover;
     background-repeat:no-repeat;
 }
+#activities header{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    height:550px;
+    background-image:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url("imgs/activitiesHeader.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+#childcare header{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    height:550px;
+    background-image:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url("imgs/childcareHeader.webp");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+#concerns header{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    height:550px;
+    background-image:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url("imgs/concernsHeader.webp");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+#preschool header{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    height:550px;
+    background-image:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url("imgs/preschoolHeader.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+#support header{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    height:550px;
+    background-image:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url("imgs/supportHeader.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+
+/*END HEADERS */
 .title {
     font-family: 'Rock Salt', cursive;
     color:#f9f9f9;
